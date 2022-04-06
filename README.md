@@ -1,7 +1,6 @@
-### Hi there 👋
 
-[![Header]
-##### Hi, I'm Ramki:
+
+##### Hi, I'm Ramki 👋:
 
 ##### Languages I use
 
