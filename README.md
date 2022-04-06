@@ -6,6 +6,10 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=reactjs)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000000?style=flat&logo=mongodb)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=nodejs)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
