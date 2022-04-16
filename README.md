@@ -1,11 +1,11 @@
 
 
 ##### Hi, I'm Ramki 👋:
-- 🌱 I’m currently learning **MERN Stack**
+-  I’m a Full Stack Developer
 
-- 👨‍💻 All of my projects are available at [https://kamalesh-portfolio-k13h11.netlify.app](https://kamalesh-portfolio-k13h11.netlify.app)
+-  All of my projects are available at [https://](https://)
 
-- 📫 How to reach me **ramkimarichamy9@gmail.com*
+-  How to reach me **ramkimarichamy9@gmail.com*
 
 
 ##### Languages I use
