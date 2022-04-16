@@ -23,7 +23,7 @@
 ##### My favorite open source projects
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
-⭐️ From [Ramki](https://github.com/ramki45)
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +34,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramki45&show_icons=true&locale=en&layout=compact" alt="ramki45" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramki45&show_icons=true&locale=en" alt="ramki45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramki45&" alt="ramki45" /></p>
+
+
+⭐️ From [Ramki](https://github.com/ramki45)
 
