@@ -38,7 +38,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ragav Kumar, Fullstack developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chennai, Tamil Nadu.</b> 
+<p>Welcome to my page! </br> I'm Ramki, Fullstack developer<img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chennai, Tamil Nadu.</b> 
 <br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning and teaching web development.</p>
 
 ## ⚡ Things I code with
@@ -78,12 +78,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragavkumarv&layout=compact&theme=radical&langs_count=6)
 
-<!-- <h3>Where to find me</h3> -->
-<!-- <p> -->
-<!-- <a href="https://github.com/ragavkumarv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
-<!-- <a href="https://twitter.com/ragavkumarv" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-<!-- <a href="https://www.linkedin.com/in/ragavkumarv/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-<!-- </p> -->
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
@@ -92,15 +86,3 @@
 <a href="https://codepen.io/ragavkumarv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ragavkumarv" height="30" width="40" /></a>
 <a href="https://instagram.com/ragavkumarv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragavkumarv" height="30" width="40" /></a>
 </p>
-<!-- **ragavkumarv/ragavkumarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
