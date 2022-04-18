@@ -1,6 +1,7 @@
 
 
-##### Hi, I'm Ramki 👋:
+##### Hey guys,
+I'm Ramki 💚
 -  I’m a Full Stack Developer
 
 
