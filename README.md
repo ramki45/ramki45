@@ -3,10 +3,8 @@
 ##### Hi, I'm Ramki 👋:
 -  I’m a Full Stack Developer
 
--  All of my projects are available at [https://](https://)
 
 -  For Professional Conversation  ramkimarichamy9@gmail.com
-
 
 ##### Languages I use
 
